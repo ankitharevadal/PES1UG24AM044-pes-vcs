@@ -64,7 +64,7 @@ echo "world" > file2.txt
 
 | ID | Description | Screenshot |
 |----|-------------|------------|
-| 1A | `./test_objects` output — all tests passing | <img width="1390" height="508" alt="image" src="https://github.com/user-attachments/assets/711ea732-b225-4816-ae3d-10e2f9b2015b" /> |
+| 1A | `./test_objects` output — all tests passing | <img width="852" height="218" alt="image" src="https://github.com/user-attachments/assets/a00437d7-25e9-49c8-955f-82e51e33c2da" /> |
 | 1B | `find .pes/objects -type f` — sharded directory structure | <img width="1384" height="402" alt="image" src="https://github.com/user-attachments/assets/8a00b65d-790b-4a52-8c4a-60558f7d43b6" /> |
 
 ### Phase 2 — Tree Objects
