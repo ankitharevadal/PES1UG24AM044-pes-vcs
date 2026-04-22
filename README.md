@@ -85,15 +85,16 @@ echo "world" > file2.txt
 
 | ID | Description | Screenshot |
 |----|-------------|------------|
-| 4A | `pes log` — three commits with hashes, authors, timestamps | <img width="939" height="730" alt="image" src="https://github.com/user-attachments/assets/dd5089df-9e7b-4761-a6d9-8c60b71db451" /> |
-| 4B | `find .pes -type f \| sort` — object store growth | <img width="714" height="231" alt="image" src="https://github.com/user-attachments/assets/363b21de-157d-4d5a-a8a3-99715211689a" /> |
-| 4C | `cat .pes/refs/heads/main` and `cat .pes/HEAD` | <img width="663" height="70" alt="image" src="https://github.com/user-attachments/assets/b47e55d4-1851-4557-8ecd-cef6ce8d96e5" /> |
+| 4A | `pes log` — three commits with hashes, authors, timestamps | <img width="717" height="773" alt="image" src="https://github.com/user-attachments/assets/4ad26c9d-daba-4dae-a3bc-e7782956ef66" />|
+| 4B | `find .pes -type f \| sort` — object store growth | <img width="833" height="153" alt="image" src="https://github.com/user-attachments/assets/0dc90aa4-c2ed-4557-a0ff-a915e9c5e0f3" />|
+| 4C | `cat .pes/refs/heads/main` and `cat .pes/HEAD` | <img width="763" height="111" alt="image" src="https://github.com/user-attachments/assets/47b4b4ca-a244-4bec-ab22-7b4906177d4d" />|
 
 ### Final Integration Test
 
-<img width="978" height="673" alt="image" src="https://github.com/user-attachments/assets/643181e1-9390-41ec-bef8-c86b60a29d22" />
+<img width="500" height="783" alt="image" src="https://github.com/user-attachments/assets/559597ff-3068-4573-aa80-e77820dc9375" />
 
-<img width="721" height="665" alt="image" src="https://github.com/user-attachments/assets/26fd7340-8f5e-4a61-9fb4-3418aa6fabce" />
+
+
 
 
 ---
