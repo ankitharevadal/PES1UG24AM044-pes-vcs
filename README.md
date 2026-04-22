@@ -78,7 +78,7 @@ echo "world" > file2.txt
 
 | ID | Description | Screenshot |
 |----|-------------|------------|
-| 3A | `pes init` → `pes add` → `pes status` sequence | <img width="750" height="722" alt="Screenshot 2026-04-21 at 12 30 37 PM" src="https://github.com/user-attachments/assets/8cb7c5de-fed1-47e2-8969-f0c06d6ab0f4" /> |
+| 3A | `pes init` → `pes add` → `pes status` sequence | <img width="587" height="779" alt="image" src="https://github.com/user-attachments/assets/06f83e3a-0c3f-4daf-b9d3-05d661ef81ad" />|
 | 3B | `cat .pes/index` — human-readable index file | <img width="805" height="75" alt="image" src="https://github.com/user-attachments/assets/9d259074-6b99-4be2-8c54-f8b37f4ec632" /> |
 
 ### Phase 4 — Commits and History
