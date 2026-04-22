@@ -71,7 +71,7 @@ echo "world" > file2.txt
 
 | ID | Description | Screenshot |
 |----|-------------|------------|
-| 2A | `./test_tree` output — all tests passing | <img width="1834" height="276" alt="image" src="https://github.com/user-attachments/assets/f592f2c3-3298-4a00-be71-7125edbdc07f" /> |
+| 2A | `./test_tree` output — all tests passing | <img width="498" height="157" alt="image" src="https://github.com/user-attachments/assets/d5d379b1-bfd8-483d-b070-ac9b4794e6ee" />|
 | 2B | `xxd` dump of a raw tree object (first 20 lines) | <img width="1834" height="220" alt="image" src="https://github.com/user-attachments/assets/5814ab53-6d28-48de-9370-2fce3742ba1b" /> |
 
 ### Phase 3 — Staging Area (Index)
